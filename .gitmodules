@@ -4,3 +4,6 @@
 [submodule ".vim/pack/ypaulc/start/syntastic"]
 	path = .vim/pack/ypaulc/start/syntastic
 	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "Zenburn"]
+	path = Zenburn
+	url = https://github.com/jnurmine/Zenburn.git
